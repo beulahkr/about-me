@@ -1,5 +1,5 @@
 # About Me
-
+[![Beulah's GitHub stats](https://github-readme-stats.vercel.app/api?username=beulahkr)](https://github.com/anuraghazra/github-readme-stats)
 Hello there! 👋 I'm Beulah, and I'm excited to introduce myself to you. Here's a little bit about me:
 
 - 🌍 I'm based in Cape Town, and I'm passionate about coding and computers.
