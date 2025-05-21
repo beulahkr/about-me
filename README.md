@@ -1,30 +1,50 @@
-# About Me
-Hello there! 👋 I'm Beulah, and I'm excited to introduce myself to you. Here's a little bit about me:
+# Hi, I'm Beulah 👋
 
-- 🌍 I'm based in Cape Town, and I'm passionate about coding and computers.
-- I am learning Typescript at the moment.
-- 🚀 I enjoy making art, and it provides me with a creative outlet outside of work.
-- ✍️ In my free time, I like to deep dive into Wikipedia and go for long walks.
+I'm a curious developer based in Cape Town with a growing interest in **data science**, **R**, and the evolving role of **AI in software development**. I enjoy solving real-world problems with code, exploring new tools, and building things that are both useful and a little bit fun.
 
-## Skills
+I come from a background working with **web technologies** like PHP, Angular, and SQL, and I’ve been expanding into cloud (AWS), frontend frameworks, and more recently, AI-assisted coding workflows.
 
-Here are some of the key skills I possess:
+When I'm not writing code, you'll probably find me making art, deep-diving into random Wikipedia articles, or getting lost on long walks.
 
-- CSS, HTML
-- React, React Router
-- JavaScript
-- C, C++
-- Firebase
+---
 
+## 🛠️ What I'm Working With
 
+**Languages & Tools**  
+- JavaScript / TypeScript  
+- R (learning in progress)  
+- Python  
+- SQL  
+- PHP  
+- C, C++  
+- HTML / CSS  
+- Angular, React  
+- Firebase  
+- AWS (core services)  
 
-## Contact Me
+**Currently Exploring**  
+- Data science with R & Python  
+- AI tools for coding, test writing, and automation  
+- Cloud workflows & architecture (especially with AWS)  
+- Writing cleaner, more maintainable code  
 
-I'm always open to new opportunities, collaborations, or simply having a conversation. Feel free to reach out to me via:
+---
 
-- Email: krugerbeulah@gmail.com
-- LinkedIn: https://www.linkedin.com/in/beulah-kruger-19387a263/
+## 🧠 Projects & Interests
 
-I look forward to connecting with you!
+I'm especially interested in how we can use AI to write better code, faster — not just automating tasks, but improving how we think and work as developers. You'll find some experiments and sandbox projects around that here on my GitHub.
+
+---
+
+## 📫 Say Hello
+
+I'm always happy to connect, collaborate, or just chat about interesting ideas. You can reach me at:
+
+- **Email**: krugerbeulah@gmail.com  
+
+---
+
+Thanks for stopping by 👩‍💻✨
+
 
 
