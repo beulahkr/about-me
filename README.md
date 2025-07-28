@@ -1,4 +1,4 @@
-# Hi, I'm Beulah 👋
+# Hi, I'm Beulah 🐇🌾
 
 I'm a curious developer based in Cape Town with a growing interest in **data science**, **R**, and the evolving role of **AI in software development**. I enjoy solving real-world problems with code, exploring new tools, and building things that are both useful and a little bit fun.
 
